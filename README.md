@@ -12,7 +12,7 @@
 
 Hi, I'm Aman Tyagi, a passionate self-taught Full Stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I am an adaptable and responsible student seeking to utilize my exceptional prowess in various fields of Computer Science and Engineering.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="490" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
 ### Languages and Tools:
 
