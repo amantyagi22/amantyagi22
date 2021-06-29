@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/aman-tyagi-700a06190/">
   <img align="left" alt="Aman's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/AmanTyagi_20">
+<a href="#">
   <img align="left" alt="Aman Tyagi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
