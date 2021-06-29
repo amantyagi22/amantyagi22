@@ -32,7 +32,7 @@ While pursuing my degree, I have been able to successfully combine my studies wi
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amantyagi22&show_icons=true&theme=prussian)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amantyagi22&show_icons=true)
 
 
 <!--
