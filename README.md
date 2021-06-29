@@ -14,6 +14,8 @@ Hi, I'm Aman Tyagi, a passionate self-taught Full Stack web developer. My passio
 
 <img align="right" alt="GIF" src="https://github.com/amantyagi22/amantyagi22/blob/main/code.gif?raw=true" width="470" height="320" />
 
+While pursuing my degree, I have been able to successfully combine my studies with work and other commitments showing myself to be self-motivated, organized and capable of working under pressure. In short, I am reliable, trustworthy, hardworking and eager to learn.
+
 ### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -25,10 +27,6 @@ Hi, I'm Aman Tyagi, a passionate self-taught Full Stack web developer. My passio
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br><br>
-
-While pursuing my degree, I have been able to successfully combine my studies with work and other commitments showing myself to be self-motivated, organized and capable of working under pressure. In short, I am reliable, trustworthy, hardworking and eager to learn.
-
-<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amantyagi22&layout=compact)
 
