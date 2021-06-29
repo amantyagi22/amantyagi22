@@ -12,7 +12,7 @@
 
 Hi, I'm Aman Tyagi, a passionate self-taught Full Stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I am an adaptable and responsible student seeking to utilize my exceptional prowess in various fields of Computer Science and Engineering.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="490" height="320" />
 
 ### Languages and Tools:
 
@@ -24,7 +24,7 @@ Hi, I'm Aman Tyagi, a passionate self-taught Full Stack web developer. My passio
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<br>
+<br><br>
 
 While pursuing my degree, I have been able to successfully combine my studies with work and other commitments showing myself to be self-motivated, organized and capable of working under pressure. In short, I am reliable, trustworthy, hardworking and eager to learn.
 
