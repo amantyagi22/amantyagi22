@@ -1,10 +1,10 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">
 <a href="https://www.linkedin.com/in/aman-tyagi-700a06190/">
-  <img align="left" alt="Aman's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Aman's LinkedIN" width="35" src="https://user-images.githubusercontent.com/63851158/214014425-6161b57b-39a6-4711-859f-f90f7d439842.png" />
 </a>
-<a href="#">
+<!-- <a href="#">
   <img align="left" alt="Aman Tyagi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+</a> -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=amantyagi22.amantyagi22)
 
@@ -14,7 +14,7 @@ Hi, I'm Aman Tyagi, a passionate self-taught Full Stack web developer. My passio
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/mrXQbQaV1H6fQT2XHc/giphy.gif" width="450" height="330" />
 
-While pursuing my degree, I have been able to successfully combine my studies with work and other <br> commitments showing myself to be self-motivated, organized and capable of working under pressure. In short, I am reliable, trustworthy, hardworking and eager to learn.
+While pursuing my degree, I have been able to successfully combine my studies with work and other commitments <br /> showing myself to be self-motivated, organized and capable of working under pressure. In short, I am reliable, trustworthy, hardworking and eager to learn.
 
 ### Languages and Tools:
 <div style="display: inline">
