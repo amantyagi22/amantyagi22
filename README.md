@@ -14,7 +14,7 @@ Hi, I'm Aman Tyagi, a passionate self-taught Full Stack web developer. My passio
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/mrXQbQaV1H6fQT2XHc/giphy.gif" width="450" height="330" />
 
-While pursuing my degree, I have been able to successfully combine <br> my studies with work and other commitments showing myself to be self-motivated, organized and capable of working under pressure. In short, I am reliable, trustworthy, hardworking and eager to learn.
+While pursuing my degree, I have been able to successfully combine my studies with work and other commitments showing myself to be self-motivated, organized and capable of working under pressure. In short, I am reliable, trustworthy, hardworking and eager to learn.
 
 ### Languages and Tools:
 <div style="display: inline">
