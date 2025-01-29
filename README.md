@@ -10,11 +10,12 @@
 
 <br />
 
-Hi, I'm Aman Tyagi, a passionate self-taught Full Stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I am an adaptable and responsible student seeking to utilize my exceptional prowess in various fields of Computer Science and Engineering.
+Hi, I'm Aman Tyagi, a Software Backend Engineer with 1.5 years of experience. I specialize in building scalable and efficient backend systems, optimizing performance, and integrating cutting-edge technologies. Passionate about problem-solving and system architecture, I thrive on turning complex ideas into robust solutions.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/mrXQbQaV1H6fQT2XHc/giphy.gif" width="450" height="330" />
 
-While pursuing my degree, I have been able to successfully combine my studies with work and other commitments <br /> showing myself to be self-motivated, organized and capable <br /> of working under pressure. In short, I am reliable, trustworthy, hardworking and eager to learn.
+Throughout my career as a Software Backend Engineer, I have successfully balanced my professional work with continuous learning and upskilling. This journey has honed my ability to be self-motivated, organized, and adaptable, even under pressure. I take pride in being reliable, proactive, and always eager to learn and improve.
+
 
 ### Languages and Tools:
 <div style="display: inline">
@@ -23,9 +24,6 @@ While pursuing my degree, I have been able to successfully combine my studies wi
 <img height="35" src="https://user-images.githubusercontent.com/63851158/214012008-a350ce12-d492-42f0-bfaa-bc72ddf0a0c9.png">
 <img height="35" src="https://user-images.githubusercontent.com/63851158/214012647-9cdbc871-4ee0-4776-a66a-a93bbb5abebd.png">
 <img height="35" src="https://user-images.githubusercontent.com/63851158/214012975-c44b0ed8-9d98-459c-a9e7-0a3ca8fc96f2.png">
-<!-- <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> -->
-<!-- <img height="35" src="https://icons8.com/icon/SDVmtZ6VBGXt/express-js"> -->
-<!-- <img height="35" src="https://user-images.githubusercontent.com/63851158/214013144-fa775192-0004-49cd-bb30-31e0947e557f.png"> -->
  </div>
 <br>
 
