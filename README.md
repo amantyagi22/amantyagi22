@@ -6,10 +6,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=amantyagi22.amantyagi22)
 
-<br />
-
-## 👋 Hi, I'm Aman Tyagi
-
 I'm a **Software Engineer** who loves solving hard problems and designing systems that scale.  
 My strength lies in combining **deep backend knowledge** with a strong understanding of **cloud infrastructure, distributed systems, and real-world performance**.
 
