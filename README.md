@@ -5,7 +5,11 @@
 </a>
 
 
-Welcome! I'm **Aman Tyagi**, a passionate Software Engineer who loves building robust, scalable systems and working across the full stack — with a backend-first mindset and cloud-native edge.
+I'm a **Software Engineer** who loves solving hard problems and designing systems that scale. My strength lies in combining **deep backend knowledge** with a strong understanding of **cloud infrastructure, distributed systems, and real-world performance**.
+
+I don’t just write code — I craft systems. I think in architecture, optimize for performance, and strive to write code that's clean, robust, and built for the long term.
+
+> _"Great engineers ship fast. The best ones also make it last."_ 🚀
 
 <br/>
 
@@ -56,11 +60,3 @@ Welcome! I'm **Aman Tyagi**, a passionate Software Engineer who loves building r
 ### 📫 Reach Out
 
 <a href="mailto:amantyagi2k@gmail.com">📩 amantyagi2k@gmail.com</a>  
-<a href="https://www.linkedin.com/in/aman-tyagi-700a06190/">🔗 LinkedIn</a>  
-<a href="https://github.com/amantyagi22">💻 GitHub</a>
-
----
-
-> _“Think deep. Code clean. Ship fast.”_
-
-
